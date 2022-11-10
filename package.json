@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ARDuryodhan/Mpinverificaton/issues"
   },
-  "homepage": "https://github.com/ARDuryodhan/Mpinverificaton#readme"
+  "homepage": "https://github.com/ARDuryodhan/Mpinverificaton#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1"
+  }
 }
